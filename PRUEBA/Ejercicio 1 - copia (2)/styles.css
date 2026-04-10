@@ -1,0 +1,12 @@
+.divsito{
+    background-color: lightyellow;
+    width: 700px;
+    padding: 20px;
+    border: 30px;
+    margin: 100px;
+    border-radius: 20px;
+}
+span{
+    color: red;
+    font-weight: bold;
+}
